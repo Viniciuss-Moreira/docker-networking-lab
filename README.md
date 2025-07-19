@@ -1,2 +1,5 @@
-# docker-networking-lab
-Simulação de redes e firewalls usando Docker e docker-compose.
+# Docker Networking Lab
+Ambiente Docker com múltiplos containers simulando:
+- Servidor web
+- Servidor de banco de dados
+- Firewall entre redes
